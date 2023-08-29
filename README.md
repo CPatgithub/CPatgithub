@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/avd151)
 
-- 💬 Ask me about *C, C++, Python, Full Stack Web Development using React.js and Django*
+- 💬 Ask me about java,  Python, Full Stack Web Development using React.js and MongoDB*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
