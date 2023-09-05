@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://arunkr741.github.io/](https://arunkr741.github.io/)  /////////
-
 - 💬 Ask me about **React, MongoDB, Nodejs, JavaScript**
 
 - 📫 How to reach me **Chandrapal.in21@gmail.com**
 
-- 📄 Know about my experiences [https://chandrapal-resume.tiiny.site/](https://chandrapal-resume.tiiny.site/)]
+- 📄 Know about my experiences [https://chandrapal-resume.tiiny.site/](https://chandrapal-resume.tiiny.site/)] /////
 - ⚡ Fun fact **I think I am Disciplined.**
 
 <h3 align="left">Connect with me:</h3>
